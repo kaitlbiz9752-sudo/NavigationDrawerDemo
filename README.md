@@ -9,13 +9,13 @@ Application Android simple démontrant :
 
 ---
 
-## 📱 Fonctionnalités
+##  Fonctionnalités
 
-### ✔️ Fragment 1 (fond rose)
+###  Fragment 1 (fond rose)
 
 * Affiche un écran rose avec un texte "Fragment 1"
 
-### ✔️ Fragment 2 (fond bleu)
+###  Fragment 2 (fond bleu)
 
 * Affiche un écran bleu avec un texte "Fragment 2"
 
@@ -23,7 +23,7 @@ Application Android simple démontrant :
 
 * Affiche une liste simple de 10 éléments : Item 1 → Item 10
 
-### ✔️ Navigation Drawer
+###  Navigation Drawer
 
 * Menu latéral permettant de sélectionner :
 
@@ -33,7 +33,7 @@ Application Android simple démontrant :
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * **Android Studio** (Java)
 * **Navigation Drawer Activity Template**
@@ -43,7 +43,7 @@ Application Android simple démontrant :
 
 ---
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```
 app/
@@ -69,7 +69,7 @@ app/
 
 ---
 
-## ▶️ Installation & Exécution
+##  Installation & Exécution
 
 ### 1. Ouvrir le projet dans Android Studio
 
@@ -79,7 +79,7 @@ File > Open > NavigationDrawerDemo
 
 ### 2. Compiler le projet
 
-* Cliquez sur **Run ▶️**
+* Cliquez sur **Run **
 * Choisissez un **émulateur Android** ou un **téléphone connecté**
 
 ### 3. Utilisation
@@ -93,7 +93,7 @@ File > Open > NavigationDrawerDemo
 
 ---
 
-## 📄 Fichiers importants
+##  Fichiers importants
 
 ### MainActivity.java
 
@@ -119,7 +119,7 @@ Affiche une liste avec un `ArrayAdapter`.
 
 ---
 
-## 🧑‍💻 Auteur
+##  Auteur
 
 Projet réalisé dans le cadre d'un exercice pratique pour apprendre :
 
@@ -129,6 +129,19 @@ Projet réalisé dans le cadre d'un exercice pratique pour apprendre :
 
 ---
 
-## ✔️ Licence
+##  Licence
 
 Usage libre pour l'apprentissage et la formation Android.
+
+
+
+## Description Vidéo
+
+
+
+
+
+https://github.com/user-attachments/assets/503b82de-5e4f-412a-8acf-525de379b810
+
+
+
